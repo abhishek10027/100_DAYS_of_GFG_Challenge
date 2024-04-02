@@ -33,6 +33,6 @@ Now that I've completed the challenge, I plan to:
 
 ## Acknowledgments
 
-I would like to express my gratitude to GeeksforGeeks for organizing the "100_DAYS_of_GFG_Challenge" and providing valuable resources and support throughout the journey. I also want to thank the community of participants for their encouragement and camaraderie.
+I would like to express my gratitude to GeeksforGeeks for organizing the "100_DAYS_of_GFG_Challenge" and providing valuable resources and support throughout the journey. 
 
 
